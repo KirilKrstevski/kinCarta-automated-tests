@@ -32,6 +32,14 @@ Test runs are logged both as videos and traces in the `playwright-report` folder
 
 Check the `.example.env` file in `./.env.examples` and create your own `.env` file from it
 
+## Install 
+
+`yarn install`
+
 ## Running tests:
 
 `yarn test`
+
+## Prerequisites
+
+`Node > 22`
