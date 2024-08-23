@@ -1,0 +1,5 @@
+node_modules
+test-report
+test-results
+test_log.log
+.vscode/settings.json
