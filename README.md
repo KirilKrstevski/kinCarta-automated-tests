@@ -30,7 +30,7 @@ Test runs are logged both as videos and traces in the `playwright-report` folder
 
 ## Environment Variables
 
-Check the `.example.env` file in `./.env.examples` and create your own `.env` file from it
+Check the `.example.env` file and create your own `.env` file from it
 
 ## Install 
 
